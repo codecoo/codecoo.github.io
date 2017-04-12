@@ -1,0 +1,61 @@
+fitCalio
+----------
+
+a sports marketing platform for brans and agencies
+
+the way for brans to discover maketing opportunities and get data driven result
+
+Actors
+- Brands * Get Stared as a Brands or  Agencies 
+- Agencies
+- Player/ Athletes * I am an Athlete
+- Teams
+
+Features :
+
+Player & Teams :  
+
+1. Registration
+2. Profile
+3. LifeStyle Information
+4. Demographics / Summaries
+5. Social Media
+6. Payment
+7. Receipt 
+8. Participants
+9. BIB Marketplace
+
+Brands & Agencies :
+
+1. Events + campaign
+2. Audience --> player & teams
+3. Registration
+4. Payment
+5. Billing & Invoice
+6. Integration (API) 
+
+7. Social Insights / Social Mornitoring / ROI / Feedback -- Tools
+8.   
+
+
+
+
+Marketing : working with based on marketing objectives and your target audience.
+
+
+Refer : https://opensponsorship.com
+
+
+https://github.com/Semantic-Org/Semantic-UI-React
+
+Built With Semantic UI React
+
+These great products are built on Semantic UI React. Add yours here.
+
+http://stoplight.io
+https://roadmap.space
+https://edabit.com
+https://blackship.com
+http://www.brewhousesolutions.com
+https://www.lifebot.fr
+
